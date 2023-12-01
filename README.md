@@ -4,8 +4,6 @@
 Copy & Paste the below commands step by step.
 
 ```bash
-# clone repo
-git clone https://github.com/mohith7548/Graphical-Password-User-Authentincation
 
 # Navigate to the folder
 cd Graphical-Password-User-Authentincation
@@ -68,35 +66,3 @@ There will be a camera in front of the user which identifies a face while authen
 Since the adversary is made to believe that the password is a set of images, it’s not possible to make a fake page, since the adversary thinks he doesn’t know the images. Moreover, we restrict the user to one attempt and suggest the user to give a fake password every time so that he triggers the server to send and URL in email so that he can log in through the legitimate login page, and the adversary cannot send the URL to users from a legitimate server. However, when the adversary knows the technique this attack might be still possible. 
 
 <br>
-
-## Screenshots
-Welcome Page
-![](screenshots/gpwd1.png)
-<br> <br>
-Sign Up Page
-![](screenshots/gpwd2.png)
-<br>
-![](screenshots/gpwd3.png)
-<br>
-After logging in
-![](screenshots/gpwd4.png)
-<br> <br>
-Password Reset Page
-![](screenshots/gpwd5.png)
-<br>
-![](screenshots/gpwd6.png)
-<br>
-Mail received with password reset link
-![](screenshots/gpwd7.png)
-<br>
-![](screenshots/gpwd8.png)
-<br> <br>
-Account blocked due to multiple Failed attempts
-![](screenshots/gpwd9.png)
-<br> Notification mail received of Account blockage
-![](screenshots/gpwd10.png)
-
-<br>
-
-#### Thank you
-
